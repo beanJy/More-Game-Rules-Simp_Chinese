@@ -1,4 +1,4 @@
-l_simp_chinese:
+﻿l_simp_chinese:
  rule_matrilineal_marriage:0 "#G MGR: #! 母系婚姻 #! "
  setting_default_matri:0 "默认"
  setting_default_matri_desc:0 "每个人都可以进行[matrilineal|E]婚姻。"
